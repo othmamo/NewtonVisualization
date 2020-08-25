@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c25391fe-5424-41fd-9fa2-7f031778eb4f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Newton/Environnement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Newton/Form1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Newton/Objets.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Newton/DataRestart.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Newton/ScientWrite.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Newton/DataRestart.Designer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Newton/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Newton/Form1.Designer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Newton/Launch.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Newton/environnement.cs" />
+        <option value="$PROJECT_DIR$/Newton/Launch.cs" />
+        <option value="$PROJECT_DIR$/Newton/Form1.Designer.cs" />
+        <option value="$PROJECT_DIR$/Newton/DataRestart.Designer.cs" />
+        <option value="$PROJECT_DIR$/Newton/Program.cs" />
+        <option value="$PROJECT_DIR$/Newton/ScientWrite.cs" />
+        <option value="$PROJECT_DIR$/Newton/Environnement.cs" />
+        <option value="$PROJECT_DIR$/Newton/Objets.cs" />
+        <option value="$PROJECT_DIR$/Newton/Form1.cs" />
+        <option value="$PROJECT_DIR$/Newton/DataRestart.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bxnVsK3SBa1aM03WsHfyfezCot" />
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Newton/bin/Debug/Newton.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Newton/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Newton/Newton.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c25391fe-5424-41fd-9fa2-7f031778eb4f" name="Default Changelist" comment="" />
+      <created>1589582647309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589582647309</updated>
+      <workItem from="1589582656530" duration="2715000" />
+      <workItem from="1589648906704" duration="8929000" />
+      <workItem from="1589914424450" duration="9587000" />
+      <workItem from="1589993258932" duration="6723000" />
+      <workItem from="1590097969970" duration="2730000" />
+      <workItem from="1590105934294" duration="10706000" />
+      <workItem from="1590358639830" duration="5699000" />
+      <workItem from="1590416341965" duration="6916000" />
+      <workItem from="1593284599042" duration="438000" />
+      <workItem from="1593286049694" duration="3142000" />
+      <workItem from="1593367684650" duration="375000" />
+      <workItem from="1593368121564" duration="4430000" />
+      <workItem from="1593385903663" duration="5370000" />
+      <workItem from="1593470084871" duration="1811000" />
+      <workItem from="1593522394881" duration="4740000" />
+      <workItem from="1593533846754" duration="64000" />
+      <workItem from="1593982065819" duration="4434000" />
+      <workItem from="1596295359736" duration="3514000" />
+      <workItem from="1598381645481" duration="810000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="453" y="88" key="#Default" />
+    <state x="453" y="88" key="#Default/1920.1080" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.1080" />
+    <state width="1493" height="153" key="GridCell.Tab.0.bottom" />
+    <state width="1493" height="153" key="GridCell.Tab.0.bottom/1920.1080" />
+    <state width="1493" height="153" key="GridCell.Tab.0.center" />
+    <state width="1493" height="153" key="GridCell.Tab.0.center/1920.1080" />
+    <state width="1493" height="153" key="GridCell.Tab.0.left" />
+    <state width="1493" height="153" key="GridCell.Tab.0.left/1920.1080" />
+    <state width="1493" height="153" key="GridCell.Tab.0.right" />
+    <state width="1493" height="153" key="GridCell.Tab.0.right/1920.1080" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/1920.1080" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center/1920.1080" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left/1920.1080" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/1920.1080" />
+    <state width="1493" height="261" key="GridCell.Tab.2.bottom" />
+    <state width="1493" height="261" key="GridCell.Tab.2.bottom/1920.1080" />
+    <state width="1493" height="261" key="GridCell.Tab.2.center" />
+    <state width="1493" height="261" key="GridCell.Tab.2.center/1920.1080" />
+    <state width="1493" height="261" key="GridCell.Tab.2.left" />
+    <state width="1493" height="261" key="GridCell.Tab.2.left/1920.1080" />
+    <state width="1493" height="261" key="GridCell.Tab.2.right" />
+    <state width="1493" height="261" key="GridCell.Tab.2.right/1920.1080" />
+    <state width="1493" height="261" key="GridCell.Tab.3.bottom" />
+    <state width="1493" height="261" key="GridCell.Tab.3.bottom/1920.1080" />
+    <state width="1493" height="261" key="GridCell.Tab.3.center" />
+    <state width="1493" height="261" key="GridCell.Tab.3.center/1920.1080" />
+    <state width="1493" height="261" key="GridCell.Tab.3.left" />
+    <state width="1493" height="261" key="GridCell.Tab.3.left/1920.1080" />
+    <state width="1493" height="261" key="GridCell.Tab.3.right" />
+    <state width="1493" height="261" key="GridCell.Tab.3.right/1920.1080" />
+    <state width="1493" height="261" key="GridCell.Tab.4.bottom" />
+    <state width="1493" height="261" key="GridCell.Tab.4.bottom/1920.1080" />
+    <state width="1493" height="261" key="GridCell.Tab.4.center" />
+    <state width="1493" height="261" key="GridCell.Tab.4.center/1920.1080" />
+    <state width="1493" height="261" key="GridCell.Tab.4.left" />
+    <state width="1493" height="261" key="GridCell.Tab.4.left/1920.1080" />
+    <state width="1493" height="261" key="GridCell.Tab.4.right" />
+    <state width="1493" height="261" key="GridCell.Tab.4.right/1920.1080" />
+    <state x="548" y="292" key="ToolboxManager" />
+    <state x="548" y="292" key="ToolboxManager/1920.1080" />
+    <state x="431" y="145" width="672" height="680" key="search.everywhere.popup" />
+    <state x="431" y="145" width="672" height="680" key="search.everywhere.popup/1920.1080" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

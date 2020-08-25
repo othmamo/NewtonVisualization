@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Newton", "Newton\Newton.csproj", "{4894DE00-C9E6-4E89-9C20-EEA7FEE85017}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4894DE00-C9E6-4E89-9C20-EEA7FEE85017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4894DE00-C9E6-4E89-9C20-EEA7FEE85017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4894DE00-C9E6-4E89-9C20-EEA7FEE85017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4894DE00-C9E6-4E89-9C20-EEA7FEE85017}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

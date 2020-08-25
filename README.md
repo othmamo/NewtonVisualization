@@ -9,4 +9,4 @@ Frictions are not taken care of, so the mass parameter can be ignored when you s
 Launch the program, click on restart and indicate the parameters on the form that will open. <br/>
 Then click on Launch button.<br/>
 
-The project is in progress and new features like friction will be added soon.<br/>
+The project is in progress and new features like frictions will be added soon.<br/>
